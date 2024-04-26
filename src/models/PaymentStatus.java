@@ -2,5 +2,6 @@ package models;
 
 public enum PaymentStatus {
     FAILED,
-    SUCCESS
+    SUCCESS,
+    PENDING
 }

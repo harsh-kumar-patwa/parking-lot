@@ -1,8 +1,7 @@
 package models;
 
-public class Operator {
+public class Operator extends BaseModel{
     private int employeeId;
-    private int number;
-    private Long phoneNumber;
+    private String name;
 
 }

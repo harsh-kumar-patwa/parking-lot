@@ -1,8 +1,7 @@
 package models;
 
-public class Vehicle {
-    private int id;
+public class Vehicle extends BaseModel{
     private int number;
     private VehicleType vehicleType;
-    private User owner;
+    private String ownerName;
 }

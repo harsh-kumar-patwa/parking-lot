@@ -1,6 +1,6 @@
 package models;
 
-public enum Mode {
+public enum PaymentMode {
     CASH,
     UPI,
     CREDIT_CARD,
