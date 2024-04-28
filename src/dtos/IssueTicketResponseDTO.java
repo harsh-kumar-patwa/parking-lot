@@ -6,6 +6,7 @@ public class IssueTicketResponseDTO {
     private Ticket ticket;
     private ResponseStatus responseStatus;
 
+
     public ResponseStatus getResponseStatus() {
         return responseStatus;
     }
